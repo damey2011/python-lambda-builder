@@ -12,7 +12,7 @@ python_lambda_builder --func-src src/ --build_dest dist/
 
 For pip (requirements.txt):
 ```shell
-python_lambda_builder --func-src src/ --build_dest dist/ --manaager pip
+python_lambda_builder --func-src src/ --build_dest dist/ --manager pip
 ```
 
 Other arguments you can pass include:
